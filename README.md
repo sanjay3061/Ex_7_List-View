@@ -131,7 +131,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-<img src="Screenshot 2025-04-26 112249.png" width=50%>
+![image](https://github.com/user-attachments/assets/d7fff095-1580-4860-a7cb-9fbd0d87ca41)
 
 
 
